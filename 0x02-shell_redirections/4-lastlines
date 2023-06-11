@@ -1,2 +1,2 @@
 #!/bi/bash
-tail /etc/passwd | less
+cat /etc/passwd | tail | less
